@@ -1,11 +1,7 @@
 package com.example.chatbot.root.presentance.gemini.stateEvent
 
 import android.graphics.Bitmap
-import android.net.Uri
 import com.example.chatbot.root.data.local.GeminiData
-import com.google.ai.client.generativeai.type.GenerateContentResponse
-import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.emptyFlow
 
 data class GeminiState(
 
