@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+    <path
+        android:fillColor="#FF0D13AA"
+        android:pathData="M55 40V10c0-1.33-0.53-2.6-1.46-3.54C52.6 5.53 51.33 5 50 5H20c-1.33 0-2.6 0.53-3.54 1.46C15.53 7.4 15 8.67 15 10v30c0 1.33 0.53 2.6 1.46 3.54C17.4 44.47 18.67 45 20 45h30c1.33 0 2.6-0.53 3.54-1.46C54.47 42.6 55 41.33 55 40ZM27.5 30l5.08 6.77L40 27.5 50 40H20M5 15v35c0 1.33 0.53 2.6 1.46 3.54C7.4 54.47 8.67 55 10 55h35v-5H10V15"/>
+</vector>
